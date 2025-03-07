@@ -3,6 +3,11 @@
 ![image](https://github.com/user-attachments/assets/26ce185c-081d-43ec-adc2-e1c7a7a5a865)
 
 
+
+
+
+
+
 Processo de Aprendizagem do Microsoft Copilot
 Treinamento em Grandes Conjuntos de Dados
 
@@ -25,6 +30,11 @@ A integração do Microsoft Copilot com modelos da OpenAI amplia suas capacidade
 🔹 Análise e Síntese de Dados – Processamento de informações para gerar insights acionáveis.
 
 Com essas funcionalidades, o Microsoft Copilot se torna uma ferramenta essencial para produtividade, auxiliando desde usuários comuns até desenvolvedores e empresas.
+
+
+
+
+
 
 
 ![image](https://github.com/user-attachments/assets/8c4598d0-946f-4c1c-b6da-c928bfab49b2)
